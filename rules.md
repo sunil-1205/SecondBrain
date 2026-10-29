@@ -19,3 +19,7 @@ Every agent follows these, in every project. They keep agents from shipping garb
   changes.
 
 ## My additions
+Defaults Claude chose on 2026-10-29 because I didn't give my own. Change any that are wrong.
+- Never commit to, merge into, or push to a work (NWE) repo's main branch without my say-so.
+- Never send email, messages, or posts in my name without showing me the text first.
+- Never put NWE confidential information, client data, or credentials in this brain. It's a public repo.
